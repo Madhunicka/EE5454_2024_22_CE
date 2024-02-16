@@ -1,7 +1,7 @@
 import sys
 
 def default():
-    print('Hello')
+    print('Helloggg')
 
 def main():
     default()
